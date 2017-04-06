@@ -1,5 +1,5 @@
 # badges
-Custom CollegeCode badge to link your repo to this organization.
+Custom CollegeCode badge to link your repo to this organization. [![College Code](https://img.shields.io/badge/CollegeCode-Repo-red.svg)](https://github.com/CollegeCODE/VITacademics-Enhancement-Suite)
 
 ## General Instructions
 
